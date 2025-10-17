@@ -6,5 +6,5 @@ E-MAIL MKT AUTISMO OUT 2025
 <img width="1713" height="8193" alt="bgaz" src="https://github.com/user-attachments/assets/80228e31-067d-4d1a-8ee6-0c9f33dc9b4e" />
 <img width="1713" height="8193" alt="bgac" src="https://github.com/user-attachments/assets/c876bb79-81b3-4db5-aa74-0efff5f318b2" />
 <img width="1080" height="900" alt="autismo1" src="https://github.com/user-attachments/assets/97f52a31-72ea-4452-b93e-982fc629f0ce" />
-<img width="1713" height="8193" alt="bgy" src="https://github.com/user-attachments/assets/3d13cc25-467a-427a-97a0-807c24851988" />
 <img width="600" height="73" alt="wavesy" src="https://github.com/user-attachments/assets/212ec85f-e4ac-497a-bafb-bdbef9e5f00a" />
+<img width="2000" height="9566" alt="bgy" src="https://github.com/user-attachments/assets/44962143-f994-477c-89b4-b81c008ec148" />
